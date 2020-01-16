@@ -1,11 +1,4 @@
 # myNetflix
-<<<<<<< HEAD
-Projekt szkoleniowy w ramach inicjatywy devLeaders. 
-Zespół stworzy klona Netflix z użyciem:
--React, 
--React Native, 
--NestJS
-=======
 Projekt szkoleniowy w ramach inicjatywy devLeaders. Zespół stworzy klona Netflix z użyciem React, Ract Native, NestJS
 
 # Instrukcja uruchomienia projektu
@@ -14,4 +7,3 @@ Projekt szkoleniowy w ramach inicjatywy devLeaders. Zespół stworzy klona Netfl
     - lerna run start
 
  Z powoduje to uruchomienie Reacta na porcie 3000 i Nest.js na porcie 3300 
->>>>>>> upstream/master
